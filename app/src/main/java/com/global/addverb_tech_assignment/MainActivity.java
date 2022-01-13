@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
     private ImageView refreshBtn;
     private ProgressBar progressBar;
     private TextView loadingTxt;
-//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
