@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         loadingTxt = findViewById(R.id.loadingTxt);
         displayRegionModelArrayList = new ArrayList<>();
 
+        //
         boolean isInternetConnected = internetIsConnected();
 
         // to recall the api , if there is some issue
